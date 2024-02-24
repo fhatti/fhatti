@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out new opportunities to learn and enhance my skill set.<br>Currently, I am completing a Front End Developer course at ITSchool.<br>This GitHub Page serves as an observatory for tracking my progress and development on the frontend developer journey. 🌟
+Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out new opportunities to learn and enhance my skill set.<br>I’m currently learning Typescript and Tailwind <br>This GitHub Page serves as an observatory for tracking my progress and development on the frontend developer journey. 🌟
 
 
 # 💻 Tech Stack:
