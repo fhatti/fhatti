@@ -39,7 +39,7 @@ Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 </details>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:&nbsp; [![](https://visitcount.itsvg.in/api?id=fhatti&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=fhatti&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fhatti&theme=tokyonight&hide_border=false)&nbsp;
 <br>
@@ -47,18 +47,11 @@ Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fhatti&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fhatti&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 <div align = "center">
 
 # Let's connect and geek out over code! 🚀
 [![Gmail: Vlad Purcariu](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:purcariuvlad99@gmail.com)](mailto:purcariuvlad99@gmail.com)&nbsp;
 [![Linkedin:Vlad Purcariu](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlad-purcariu-634aa0304/)](https://www.linkedin.com/in/vlad-purcariu-634aa0304/)&nbsp;
-
-
-  
 </div>
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
 
