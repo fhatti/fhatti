@@ -1,5 +1,5 @@
  # 💫 About Me:
-Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out new opportunities to learn and enhance my skill set.<br>This GitHub Page serves as an observatory for tracking my progress and development on the frontend developer journey. 🌟
+Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out new opportunities to learn and enhance my skill set. <br>In addition to my frontend experience, I'm currently pursuing an apprenticeship as a Software Developer at TravelTrex.<br><br>✨ It’s an incredible journey so far, and I’m excited for all the tech adventures ahead! 🚀<br><br>This GitHub Page serves as an observatory for tracking my progress and development across the software development journey. 🌟
 
 
 
@@ -13,8 +13,9 @@ Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![TailwindC](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 
 </details>
@@ -23,7 +24,6 @@ Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out
 <summary><b>🧰 Backend</b></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 </details>
@@ -31,10 +31,8 @@ Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out
 <details open>
 <summary><b>🚀 Frameworks & Library</b></summary>
 <br>
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white')&nbsp;
-
+ 
+![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 </details>
 
 <details open>
