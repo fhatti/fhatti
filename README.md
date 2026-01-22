@@ -1,5 +1,5 @@
  # 💫 About Me:
-Hey there,<br><br>I am a self-taught front-end developer, constantly seeking out new opportunities to learn and enhance my skill set. <br>In addition to my frontend experience, I'm currently pursuing an apprenticeship as a Software Developer at TravelTrex.<br><br>✨ It’s an incredible journey so far, and I’m excited for all the tech adventures ahead! 🚀<br><br>This GitHub Page serves as an observatory for tracking my progress and development across the software development journey. 🌟  I’m continuously working on my current project: [Unify Football](https://unifyfootball-web.com).
+Hey there, I'm currently pursuing an apprenticeship as a Software Developer at TravelTrex.<br><br>✨ It’s an incredible journey so far, and I’m excited for all the tech adventures ahead! 🚀<br><br>This GitHub Page serves as an observatory for tracking my progress and development across the software development journey. 🌟  I’m continuously working on my current project: [UnifyFootball](https://unifyfootball-web.com).
 
 
 
